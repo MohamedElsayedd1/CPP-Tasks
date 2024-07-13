@@ -1,0 +1,1 @@
+unique_ptr<int> x = make_unique<int>{100};

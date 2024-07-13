@@ -1,0 +1,1 @@
+Mystring &operator=(const char *s);
