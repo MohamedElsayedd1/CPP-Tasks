@@ -26,3 +26,4 @@ Each task is implemented in C++ and includes detailed comments to explain the lo
 - Each task is contained in its own `.cpp` file, along with any necessary supporting files.
 - Solutions are provided as completed code files, ready for review and further exploration.
 
+![Image Description](relative/path/to/cpp.png)
