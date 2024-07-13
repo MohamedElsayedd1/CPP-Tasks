@@ -1,6 +1,6 @@
 # C++ Tasks Repository
 
-Welcome to the C++ Tasks repository! This repository contains a collection of programming tasks and exercises completed by [Your Name] to practice fundamental C++ concepts.
+Welcome to the C++ Tasks repository! This repository contains a collection of programming tasks and exercises completed by me to practice fundamental C++ concepts.
 
 ## About
 
